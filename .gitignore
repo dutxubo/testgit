@@ -1,0 +1,6 @@
+# Sphinx documentation
+build/
+
+# vscode
+.vscode/
+.history/
